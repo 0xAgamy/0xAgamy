@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Mohamed+Elagamy's+Profile!;Passionate+Machine+Learning+Engineer;AI+Enthusiast;Data+Science+Aficionado&font=Fira%20Code&center=true&width=490&height=45&color=0077b6&vCenter=true&pause=1000&size=22" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xAgamy&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -27,7 +23,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,sklearn,opencv,flask,docker,kubernetes,git,vscode,jupyter,colab&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,sklearn,opencv,flask,docker,kubernetes,git,vscode,postman,&perline=7" />
 </div>
 
 <br/>
@@ -60,18 +56,7 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xAgamy&show_icons=true&count_private=true&hide_border=true&title_color=0077b6&icon_color=00b4d8&text_color=caf0f8&bg_color=0d1117" alt="Mohamed Elagamy's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAgamy&layout=compact&hide_border=true&title_color=0077b6&text_color=caf0f8&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAgamy&theme=tokyonight&hide_border=true&stroke=0077b6&background=0d1117&ring=0077b6&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
@@ -81,19 +66,22 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="http://www.linkedin.com/in/mohamed-elagamy-b6643b321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/0xAgamy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.kaggle.com/iamagamy">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
+  
   <a href="mailto:mohamedelagamy516@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 10px;"><a href="https://www.kaggle.com/iamagamy">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</div>
 <br/>
 
 <div align="center">
